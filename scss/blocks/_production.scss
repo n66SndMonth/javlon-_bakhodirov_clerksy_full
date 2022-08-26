@@ -1,0 +1,33 @@
+.production__wrapper{
+  background: #163A24;
+  border-radius: 0px;
+ 
+ &__title{
+  padding: 66px 0;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 54px;
+  text-align: center;
+  color: #FBFAF7;
+ }
+ &__text{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #FBFAF7;
+ }
+ &__list{
+  padding: 70px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap:130px;
+ }
+&__img  {
+ margin-left: 30px;
+}
+&__img__3{
+  margin-left: 40px;
+ }
+}

@@ -1,0 +1,66 @@
+.consider__hero{
+  margin-top: 124px;
+  .consider__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 160px;
+    &__scense__title{
+      font-weight: 600;
+font-size: 48px;
+line-height: 54px;
+color: #163A24;
+    }
+    &__scense__text{
+      font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #163A24;
+    }
+  }
+ .card{
+  margin-top: 130px;
+  &__title{
+    font-weight: 600;
+font-size: 48px;
+line-height: 54px;
+text-align: center;
+color: #163A24;
+  }
+  &__text{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #163A24; 
+  }
+  &__consider__cards{
+    margin-top:28px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 90px;
+  }
+  &__consider__card{
+    background: #FBFAF7;
+box-shadow: 5px 5px 20px #E9E4D5;
+border-radius: 15px;
+
+  }
+  &__consider__card__title{
+    margin-top: 5px;
+    padding: 5px 0;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 32px;
+  color: #163A24;
+}
+&__consider__card__text{
+  padding: 5px 0;
+  font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #163A24;
+}
+ }
+}

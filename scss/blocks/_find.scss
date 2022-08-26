@@ -1,0 +1,28 @@
+.find__wrapper{
+  background: #F2EFE6;
+  border-radius: 0px;
+ 
+ .find-hero{
+padding: 114px 0;
+ 
+ &__title{
+  padding: 27px 0;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 54px;
+  text-align: center;
+  color: #163A24;
+ }
+ &__text{
+  padding: 7px 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #163A24;
+ }
+ &__img{
+margin-left: 130px;
+ }
+}
+}

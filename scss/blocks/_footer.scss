@@ -1,0 +1,49 @@
+.footer{
+  height: 194px;
+background: #FFFFFF;
+
+
+  .navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    &__list{
+      margin-right: 115px;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         gap: 14px;
+    }
+    &__hr{
+      background:gray;
+    }
+  
+  }
+  .end{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+  &__list{
+    margin-right: 115px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+  }
+  &__text{
+    font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+color: #163A24;
+  }
+  &__link{
+    font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-align: right;
+color: #198C36;
+  }
+}
+}
